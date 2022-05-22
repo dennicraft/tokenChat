@@ -1,0 +1,6 @@
+[submodule "tokenChatBack"]
+	path = server
+	url = https://github.com/volirim/tokenChatBack.git
+[submodule "tokenChatFront"]
+	path = client
+	url = https://github.com/volirim/tokenChatFront.git
